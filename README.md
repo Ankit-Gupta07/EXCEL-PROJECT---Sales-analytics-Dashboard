@@ -12,12 +12,12 @@ Welcome to the Excel Sales Analytics Dashboard project! This repository contains
 
 ## Features of 2nd Dashboard:
 
-**Market Analysis**: Compare total sales in 2019 and 2020, along with the sales difference ratio.
-**Top 5 Products**: Discover top-selling products within each category using a bar chart.
-**Preferred Payment Modes**: Visualize payment preferences through a pie chart.
-**Sales by Customer Segment**: Analyze sales distribution among Home Office, Consumer, and Corporate customers.
-**Order Return Rate**: Track order return trends using a line chart.
-**Customer Segment-Wise Trend**: Observe sales trends across customer segments, along with the difference ratio.
+- **Market Analysis**: Compare total sales in 2019 and 2020, along with the sales difference ratio.
+- **Top 5 Products**: Discover top-selling products within each category using a bar chart.
+- **Preferred Payment Modes**: Visualize payment preferences through a pie chart.
+- **Sales by Customer Segment**: Analyze sales distribution among Home Office, Consumer, and Corporate customers.
+- **Order Return Rate**: Track order return trends using a line chart.
+- **Customer Segment-Wise Trend**: Observe sales trends across customer segments, along with the difference ratio.
 
 ## How to Use
 
